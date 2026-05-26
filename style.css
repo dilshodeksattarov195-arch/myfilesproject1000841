@@ -1,0 +1,7 @@
+body { background: #ad3b3b; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 30px; display: flex; }
+.block-helper-0 { color: #ba6654; font-size: 20px; margin-bottom: 5px; }
+.block-user-1 { color: #6075ec; font-size: 21px; margin-bottom: 5px; }
+.block-logger-2 { color: #a143f1; font-size: 12px; margin-bottom: 5px; }
+.block-validator-3 { color: #c7b510; font-size: 18px; margin-bottom: 5px; }
+.block-config-4 { color: #78a86; font-size: 15px; margin-bottom: 5px; }
